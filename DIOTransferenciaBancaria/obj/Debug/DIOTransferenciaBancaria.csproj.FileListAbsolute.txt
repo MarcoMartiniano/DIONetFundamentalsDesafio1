@@ -1,0 +1,7 @@
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\teste\DIOTransferenciaBancaria\DIOTransferenciaBancaria\bin\Debug\DIOTransferenciaBancaria.exe.config
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\teste\DIOTransferenciaBancaria\DIOTransferenciaBancaria\bin\Debug\DIOTransferenciaBancaria.exe
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\teste\DIOTransferenciaBancaria\DIOTransferenciaBancaria\bin\Debug\DIOTransferenciaBancaria.pdb
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\teste\DIOTransferenciaBancaria\DIOTransferenciaBancaria\obj\Debug\DIOTransferenciaBancaria.csproj.AssemblyReference.cache
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\teste\DIOTransferenciaBancaria\DIOTransferenciaBancaria\obj\Debug\DIOTransferenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\teste\DIOTransferenciaBancaria\DIOTransferenciaBancaria\obj\Debug\DIOTransferenciaBancaria.exe
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\teste\DIOTransferenciaBancaria\DIOTransferenciaBancaria\obj\Debug\DIOTransferenciaBancaria.pdb
